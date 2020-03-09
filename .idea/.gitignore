@@ -1,2 +1,4 @@
 # Default ignored files
 /workspace.xml
+.idea/*
+java-7-1-stack-mawa81.iml
